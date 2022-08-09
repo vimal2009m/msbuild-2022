@@ -1,0 +1,15 @@
+C:\project1000\apptest1\apptest1\bin\Debug\net6.0\apptest1.exe
+C:\project1000\apptest1\apptest1\bin\Debug\net6.0\apptest1.deps.json
+C:\project1000\apptest1\apptest1\bin\Debug\net6.0\apptest1.runtimeconfig.json
+C:\project1000\apptest1\apptest1\bin\Debug\net6.0\apptest1.dll
+C:\project1000\apptest1\apptest1\bin\Debug\net6.0\apptest1.pdb
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\apptest1.csproj.AssemblyReference.cache
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\apptest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\apptest1.AssemblyInfoInputs.cache
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\apptest1.AssemblyInfo.cs
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\apptest1.csproj.CoreCompileInputs.cache
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\apptest1.dll
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\refint\apptest1.dll
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\apptest1.pdb
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\apptest1.genruntimeconfig.cache
+C:\project1000\apptest1\apptest1\obj\Debug\net6.0\ref\apptest1.dll
